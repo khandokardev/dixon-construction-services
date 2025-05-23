@@ -487,6 +487,10 @@
           loop: true,
           centeredSlides: true,
           speed: 1000,
+          autoplay: {
+            delay: 2000,
+            disableOnInteraction: false,
+          },
           pagination: {
             el: ".swiper-pagination",
             clickable: true,
