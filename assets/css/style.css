@@ -7650,6 +7650,9 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 .side-bar .inner-main-wrapper-desk .inner-content .footer a.rts-btn {
   margin: auto;
 }
+.inner-content-tcolor p{
+  color: white !important;
+}
 
 .side-bar.show {
   right: 0;
